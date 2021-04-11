@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently learning Python so that I can one day change the world...for the better...
 <!--
 **ZenATN/ZenATN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
